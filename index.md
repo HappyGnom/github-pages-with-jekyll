@@ -1,3 +1,17 @@
-# Welcome to my blog
+# **New Year is comming!** :christmas_tree:
 
-I'm glad you are here. I plan to talk about ...
+## _Shopping list_
+- [ ] Tangerines
+- [ ] Chicken
+- [ ] Sweets
+- [ ] Cakes
+- [ ] Drinks
+- [ ] Salads
+- [ ] Potatoes
+
+## _*Guests* list_ 
+- Eugene
+- Danyil
+- Anton
+- Vladimir
+- Maria
