@@ -1,4 +1,4 @@
-# **New Year is comming!** :christmas_tree:
+# **New Year is comming!**
 
 ## _Shopping list_
 - [ ] Tangerines
